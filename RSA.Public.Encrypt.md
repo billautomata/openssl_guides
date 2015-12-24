@@ -1,6 +1,3 @@
-* generate an RSA private key
-* generate
-
 ```bash
 # generate 4096 bit private key
 openssl genrsa -out rsa.private.4096.pem 4096
