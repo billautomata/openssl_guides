@@ -1,3 +1,4 @@
 *.pem
 *.txt
 *.bin
+scratch/*
